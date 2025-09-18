@@ -4,7 +4,9 @@ A smooth bubble loading animation built with **HTML & CSS**.
 Perfect for splash screens, loading pages, or creative websites.  
 
 ## 🚀 Demo
-[Live Preview](https://Nazia99.github.io/bubble-loader/)  
+[Live Preview]( https://nazia-99.github.io/Bubble-Loader-Animation/
+Last deployed by @Nazia-99 Nazia-99 2 minutes ago
+)  
 
 ## 📂 Project Structure
 │── index.html # Main HTML
